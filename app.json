@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Plagiarism",
+    "slug": "Plagiarism",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Plagiarism"
+}
