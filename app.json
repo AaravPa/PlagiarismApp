@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PlagiarismApp_TechFair",
+    "slug": "PlagiarismApp_TechFair",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PlagiarismApp_TechFair"
+}
